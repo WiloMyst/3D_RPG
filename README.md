@@ -1,32 +1,36 @@
 # 3D_RPG
-## 介绍
+## Introduction
 
-这是一个使用Unity3D开发的简单3D RPG demo。
-
-
-
-## 完成的功能
-
-1. AI导航（点击移动）
-2. 相机控制（视野跟随和视野拉近拉远）
-3. 角色属性系统（经验、等级和生命值等）
-4. 背包系统（物品拾取和使用）
-5. 武器系统（武器装卸和更换）
-6. 战斗系统（攻击动画和攻击反馈、敌人生成）
-7. NPC对话（对话框和文本）
-8. 任务系统（任务进度管理）
-9. 中文支持（中文字体制作）
+This is a simple 3D RPG demo developed using Unity3D.
 
 
 
-## 基本操作
+## Completed Features
 
-1. 单击地面进行移动
-2. 鼠标滚轮控制视野大小
-3. 按“E”键显示（隐藏）角色面板
-4. 按“B”键显示（隐藏）背包面板
-5. 点击NPC进行对话/任务接取
-6. 按空格键攻击
+1. AI Navigation (Click-to-Move)
+2. Camera Control (Field-of-View Follow and Zoom In/Out)
+3. Character Attribute System (Experience, Level, Health, etc.)
+4. Inventory System (Item Pickup and Usage)
+5. Weapon System (Weapon Equip, Unequip, and Swap)
+6. Combat System (Attack Animations and Feedback, Enemy Spawning)
+7. NPC Dialogue (Dialogue Boxes and Text)
+8. Quest System (Quest Progress Management)
+9. Chinese Language Support (Custom Chinese Font Creation)
 
 
+
+## Basic Controls
+
+1. Click on the ground to move
+2. Use the mouse wheel to adjust the field of view
+3. Press the "E" key to show (or hide) the character panel
+4. Press the "B" key to show (or hide) the inventory panel
+5. Click on NPCs to initiate dialogue or accept quests
+6. Press the spacebar to attack
+
+
+
+------
+
+**Read this in other languages: [English](README.md), [中文](README.zh-CN.md).**
 
