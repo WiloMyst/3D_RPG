@@ -1,7 +1,7 @@
 # 3D_RPG
 ## 介绍
 
-这是一个使用Unity3D开发的简单3D RPG demo。
+这是一个使用Unity3D开发的简单3D RPG demo。在siki网站(https://www.sikiedu.com/)学习Unity项目的过程中完成。
 
 
 

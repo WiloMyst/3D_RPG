@@ -1,7 +1,7 @@
 # 3D_RPG
 ## Introduction
 
-This is a simple 3D RPG demo developed using Unity3D.
+This is a simple 3D RPG demo developed using Unity3D. Completed during the process of learning the Unity project on the Siki website(https://www.sikiedu.com/).
 
 
 
