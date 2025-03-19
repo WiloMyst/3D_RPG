@@ -734,7 +734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc29692a108af354aa68aed40ca5fe51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcName: 
+  npcName: "\u6D77\u683C"
   contentList:
   - "\u4F60\u597D\u554A\uFF0C\u52C7\u58EB\uFF01"
   - "\u4F60\u51C6\u5907\u597D\u5192\u9669\u4E86\u5417\uFF1F"
@@ -1562,7 +1562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc29692a108af354aa68aed40ca5fe51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcName: 
+  npcName: "\u5973\u5DEB"
   contentList:
   - "\u600E\u4E48\u4E86\uFF1F"
   - "\u522B\u6765\u70E6\u6211\u3002"
