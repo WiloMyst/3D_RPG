@@ -1,7 +1,7 @@
 # 3D_RPG
 ## 介绍
 
-这是一个跟随教程学习Unity时，使用Unity3D开发的简单3D RPG demo。
+这是一个跟随教程学习Unity时，使用Unity3D 2023开发的简单3D RPG demo。
 
 
 
