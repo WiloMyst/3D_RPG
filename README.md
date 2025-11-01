@@ -1,7 +1,7 @@
 # 3D_RPG
 ## 介绍
 
-这是一个跟随教程学习Unity时，使用Unity3D 2023开发的简单3D RPG demo。Finished on 2024.06.
+这是一个跟随教程学习Unity时，使用Unity3D 2023开发的简单3D RPG demo。（已去除第三方资产）。Finished on 2024.06.
 
 
 
@@ -30,9 +30,9 @@
 
 
 
+## 版本
 
-
-
+Unity 2023.2.20f1c1
 
 
 
