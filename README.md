@@ -1,11 +1,21 @@
 # 3D_RPG
-## 介绍
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/WiloMyst/3D_RPG/blob/master/LICENSE) [![GitHub repo size](https://img.shields.io/github/repo-size/WiloMyst/3D_RPG)](https://github.com/WiloMyst/3D_RPG)
+
+
+
+## 演示
+
+[Video01.mp4](demo/Video01.mp4)
+
+
+
+## 概述
 
 这是一个跟随教程学习Unity时，使用Unity3D 2023开发的简单3D RPG demo。（已去除第三方资产）。Finished on 2024.06.
 
 
 
-## 完成的功能
+## 功能列表
 
 1. AI导航（点击移动）
 2. 相机控制（视野跟随和视野拉近拉远）
@@ -35,11 +45,3 @@
 Unity 2023.2.20f1c1
 
 
-
-------
-
-## LICENSE
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-© 2024 WiloMyst
